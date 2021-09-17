@@ -14,7 +14,7 @@ const app = Vue.createApp({
     return {
       /* 解答
       *  ex. 問題2-3を追加する場合はstage2の配列に解答を追加します。
-      *    q3: 'おおお',
+      *    q3: '写真',
       */
       correctAnswer: {
         stage1: {
